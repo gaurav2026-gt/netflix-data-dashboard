@@ -58,6 +58,26 @@ This project analyzes Netflix's content library to uncover patterns in content t
 - Word cloud generated from title descriptions
 - CSV export of filtered data
 
+  ## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](dashboard.png)
+
+### Charts & Metrics
+![Charts](graph and charts.png)
+
+### Top Genres
+![Genres](dashboard genre.png)
+
+### Browse Titles
+![Titles](dashboard titles.png)
+
+### Directors & Actors
+![Actors and Directors](dashboard actors and directors.png)
+
+### Word Cloud
+![Word Cloud](wordcloud.png)
+
 ## Running the Project
 
 **Notebook:**
